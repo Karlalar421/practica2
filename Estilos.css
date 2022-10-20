@@ -1,0 +1,12 @@
+body{
+	background-color:#5C0550;
+	color:#EB9E81;
+}
+#barra a{
+	text-decoration:none;
+	color:#B7A8BF;
+}
+#Contenido a:hover{
+	text-decoration: underline;
+	color:#FF2E69;
+}
